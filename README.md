@@ -20,12 +20,12 @@ Follow these steps to set up and run the project:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/nestjs-mongodb-persons.git
+   git clone https://github.com/JC-Coder/api_hng_2.git
    ```
    
 2. Navigate to the project directory 
    ```bash
-   cd task 2
+   cd api_hng_2
    ```
 3. Run the following command to install dependencies:
    ```bash
@@ -45,4 +45,18 @@ Follow these steps to set up and run the project:
 
 Your NestJS server should now be running at http://localhost:3000.
 
-## Usage
+## Database Modeling 
+This UML diagram below represents the structure and relationships of the API's classes and models.
+
+![doc-utils/uml-diagram.png](doc-utils/uml-diagram.png)
+
+
+## Documentation 
+ Here is the [postman](https://documenter.getpostman.com/view/24185831/2s9YC2zZAG) documentation for the API .
+
+## Testing 
+ The documentation include test to verify the API's functionality.
+  
+![doc-utils/starting-postman-test.png](doc-utils/starting-postman-test.png)
+
+![doc-utils/postman-test-result.png](doc-utils/postman-test-result.png)
