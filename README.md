@@ -5,10 +5,9 @@ This is a simple REST API built with NestJS and MongoDB for managing persons. It
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Database Modeling (Bonus)](#database-modeling-bonus)
-    - [UML Diagram](#uml-diagram)
-- [Documentation](#documentation)
-- [Testing](#testing)
+- [UML Diagram](#database-modeling-)
+- [Documentation](#documentation-)
+- [Testing](#testing-)
 
 ## Prerequisites
 Before getting started, ensure you have the following installed on your system:
